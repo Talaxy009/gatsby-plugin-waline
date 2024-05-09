@@ -28,7 +28,7 @@ yarn add -D @waline/client
 
 本插件依赖 **React v16.8** 或更高版本。
 
-## 🔦 Usage
+## 🔦 使用方法
 
 0. 查看 Waline [官方文档](https://waline.js.org/guide/get-started/) 以部署你的服务端。
 
